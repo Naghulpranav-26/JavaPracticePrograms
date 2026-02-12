@@ -12,6 +12,6 @@ public class Rollno {
 //        System.out.println(name);
         float marks=s.nextFloat();
         System.out.println("Your Marks is :"+marks);
-
+   
     }
 }
